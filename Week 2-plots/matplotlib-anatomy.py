@@ -1,4 +1,5 @@
 # This figure shows the name of several matplotlib elements composing a figure
+# To be analysed
 
 import numpy as np
 import matplotlib.pyplot as plt
